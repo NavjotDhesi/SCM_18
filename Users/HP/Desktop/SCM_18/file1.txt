@@ -1,0 +1,6 @@
+apple
+mango
+litchi
+coconut
+banana
+kiwi
